@@ -1,6 +1,6 @@
 "use strict";
 
-var get    = require("lodash.get");
+var get    = require("lodash/get");
 var Errors = require("./Errors");
 var Utils  = require("./Utils");
 

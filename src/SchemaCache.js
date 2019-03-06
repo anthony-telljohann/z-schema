@@ -1,6 +1,6 @@
 "use strict";
 
-var isequal             = require("lodash.isequal");
+var isequal             = require("lodash/isequal");
 var Report              = require("./Report");
 var SchemaCompilation   = require("./SchemaCompilation");
 var SchemaValidation    = require("./SchemaValidation");

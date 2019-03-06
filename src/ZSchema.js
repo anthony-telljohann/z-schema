@@ -1,7 +1,7 @@
 "use strict";
 
 require("./Polyfills");
-var get               = require("lodash.get");
+var get               = require("lodash/get");
 var Report            = require("./Report");
 var FormatValidators  = require("./FormatValidators");
 var JsonValidation    = require("./JsonValidation");
